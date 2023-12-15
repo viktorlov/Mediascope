@@ -1,0 +1,7 @@
+/.idea/
+/venv/
+.env
+/.pytest_cache/
+/logs/
+/.ipynb_checkpoints/
+/.~lock.*.*
